@@ -1,0 +1,18 @@
+TY  - JOUR
+T1  - Automating Vertical Bearing Capacity Calculations using Python: Prompt Engineering of ChatGPT on API RP 2A
+AU  - Kim, Saeyon
+AU  - Kim, Donghwi
+AU  - Youn, Heejung
+JO  - Developments in the Built Environment
+SP  - 100628
+PY  - 2025
+DA  - 2025/02/21/
+SN  - 2666-1659
+DO  - https://doi.org/10.1016/j.dibe.2025.100628
+UR  - https://www.sciencedirect.com/science/article/pii/S2666165925000286
+KW  - ChatGPT
+KW  - Automated Code Generation
+KW  - Prompt Refinement
+KW  - Bearing Capacity
+AB  - This study explores the application of ChatGPT by applying prompt engineering to enable the model to process a design standard documentation and generate computer code for calculating the vertical bearing capacity of piles. A framework is proposed for the prompt engineering of ChatGPT to compute the vertical bearing capacity according to API RP 2A and to generate Python code that complies with this standard. The research is structured into three key steps: providing geotechnical data, refining prompts to guide ChatGPT in processing the API methods for bearing capacity calculation and generating Python code to automate the calculations. Through iterative prompt refinement, the model's accuracy was improved, resulting in Python code that produced reliable outputs aligned with API RP 2A design criteria. In contrast, when ChatGPT performed the calculations directly without generating code, the results were less reliable, underscoring the value of ChatGPT-driven code generation for achieving accurate and consistent outcomes.
+ER  - 
